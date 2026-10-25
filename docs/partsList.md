@@ -1,33 +1,46 @@
-Vise-grip Pliers 
-Chisels
-Putty Scrapers
-phillips screwdrivers
-Flat head screwdrivers
-16oz fiberglass claw hammer 
-Hex screwdriver
-star screwdrivers
-robertson screwdrivers
-socket screwdriver
-Interchangeable head screwdriver
-Interchangeable socket screwdriver
-Super glue
-Files
-Needle nose pliers
-impact driver
-drill
-Tin snips
-claw hammer
-precision screwdriver set
-Rolls of duct tape
-caulk gun
-milwaukee battery charger
-Interchangeable crimpers
-wire strippers
-wire cutters
-hsc8 6-4A
-solder wire roll
-heat plate
-soldering fan
-soldering iron
-ZED X One GS
-GMSL2 Capture Card Quad
+# Club Tool List
+
+## Hand tools
+- Vise-Grip pliers
+- Needle-nose pliers
+- Chisels
+- Putty scrapers
+- Files
+- Tin snips
+- 16 oz fiberglass claw hammer
+- Claw hammer
+- Caulk gun
+
+## Screwdrivers
+- Phillips screwdrivers
+- Flathead screwdrivers
+- Hex screwdriver
+- Star screwdrivers
+- Robertson screwdrivers
+- Socket screwdriver
+- Interchangeable head screwdriver
+- Interchangeable socket screwdriver
+- Precision screwdriver set
+
+## Power tools
+- Impact driver
+- Drill
+- Milwaukee battery charger
+
+## Electrical and soldering
+- Interchangeable crimpers
+- HSC8 6-4A crimper
+- Wire strippers
+- Wire cutters
+- Soldering iron
+- Solder wire roll
+- Heat plate
+- Soldering fan
+
+## Supplies
+- Super glue
+- Rolls of duct tape
+
+## Electronics
+- ZED X One GS camera
+- GMSL2 quad capture card
