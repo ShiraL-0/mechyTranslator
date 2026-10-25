@@ -1,5 +1,5 @@
 # mechyTranslator Scenarios
-*Note: Some scenarios were drafter with the help from AI and edited by me (along with US)
+*Note: Some scenarios were drafter with the help from AI and edited by me (along with US)*
 
 ## Scenario 1
 James is part of a rover club as a software member. He's is helping mechanical with repairing a wheel
@@ -81,3 +81,69 @@ each one, and notes where they're stored, like "red toolbox, drawer 2." Then
 she invites the rest of the club to join. At the next competition, Ethan
 searches "T-handle" and the app shows the club's own T-handle first, with
 its photo and location. Ethan goes straight to drawer 2 and finds it.
+
+# other related scenarios
+
+## Scenario 14
+Tyler is a first-year apprentice at an auto shop. His journeyman asks him to
+grab a "knuckle buster," and Tyler doesn't want to admit he doesn't know what
+that is. He quickly types it into the app, which shows it's a slang name for
+a ratcheting wrench, with a picture. Tyler finds one on the tool wall and
+brings it over without having to ask.
+
+## Scenario 15
+Ms. Chen teaches a high school shop class. Before the semester starts, she
+sets up a class library in the app with all the tools in her shop and where
+each one is stored. When students forget what a tool is called or where it
+goes, they look it up in the app instead of asking her every time. This
+gives her more time to help students with their projects.
+
+## Scenario 16
+Daniel is fixing a loose cabinet hinge at home. He doesn't know what kind of
+screwdriver the screw needs, and it doesn't look like a normal Phillips head.
+He takes a photo of the screw in the app, which shows it's a Torx screw and
+that he needs a T20 driver. Daniel checks his bit set and finds the right one.
+
+## Scenario 17
+Rosa is restoring an older car in her garage. Some bolts on the car are
+imperial while the newer replacement parts are metric. When a bolt won't fit
+her 13 mm socket properly, she checks the app, which shows that a 1/2" socket
+is the right match for that bolt. Rosa switches sockets and avoids rounding
+off the bolt.
+
+## Scenario 18
+Ken volunteers at a community makerspace. Members often borrow tools and put
+them back in the wrong spot. Ken sets up a makerspace library in the app with
+each tool's photo and its storage location. Now, when members are done with a
+tool, they search it in the app and return it to the right shelf.
+
+## Scenario 19
+Luis recently moved to Canada and started working at a construction site. His
+English is good, but he doesn't know the names of many tools in English. When
+his supervisor asks for a "pry bar," Luis searches it in the app, which shows
+the name in both English and Spanish, along with a picture. Luis recognizes it
+right away and grabs it.
+
+## Scenario 20
+Hannah works on a farm where cell service is unreliable in the fields. While
+repairing a piece of equipment, she needs to figure out what size wrench fits
+a bolt. She takes a photo of the bolt in the app, which works offline and
+shows that she needs a 3/4" wrench. Hannah grabs it from the truck and keeps
+working without driving back to the house.
+
+## Scenario 21
+After her grandfather passes away, Grace is sorting through his garage full
+of tools. She doesn't recognize many of them and wants to decide which ones
+to keep, donate, or give to family. She spreads a group of tools on the
+workbench and takes a photo in the app. The app labels each tool, so Grace
+can make a list and decide what to do with each one.
+
+## Scenario 22
+Alex's dining table has a wobbly leg, and one of the screws has come loose
+and gone missing, so the table is now standing on three legs. Alex tries a
+few screwdrivers from the junk drawer, but none of them fit the remaining
+screws. He takes a photo of one of the screws in the app, which shows it's
+a Robertson (square) screw and that he needs a #2 square driver. He also
+takes a photo of the empty hole, and the app shows what kind of screw or
+bolt he needs to replace the missing one. Alex picks up the right driver
+and replacement screw from the hardware store and fixes the table.
